@@ -10,7 +10,7 @@
 
 #### 📸 Screenshots
 
-![App Screenshot](https://github.com/your-username/Student-Management-System/blob/main/screenshot.png)  
+![App Screenshot](https://github.com/sudhanshu-101/CPP-Projects/blob/2223cb699a18dedb6cb36e0f593be061b81ba41e/Student%20Management/Screenshot.png)  
 *(Replace with your real screenshot or GitHub image link)*
 
 ## ✨ Features
