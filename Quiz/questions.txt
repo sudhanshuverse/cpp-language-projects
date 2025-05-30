@@ -1,0 +1,336 @@
+[C]
+What is the output of sizeof(int) in a 32-bit system?
+2
+4
+8
+Depends on compiler
+B
+
+[C]
+Which of these is not a valid C keyword?
+integer
+float
+double
+char
+A
+
+[C++]
+Which operator is used for dynamic memory allocation in C++?
+malloc
+new
+alloc
+create
+B
+
+[C++]
+What is a constructor?
+A function that destroys objects
+A function that initializes objects
+A special variable
+A preprocessor directive
+B
+
+[HTML]
+Which tag is used to create a hyperlink?
+<link>
+<a>
+<href>
+<hyperlink>
+B
+
+[HTML]
+What does HTML stand for?
+Hyper Text Markup Language
+Hyperlinks and Text Markup Language
+Home Tool Markup Language
+Hyper Tool Markup Language
+A
+
+[Python]
+How do you create a comment in Python?
+// This is a comment
+/* This is a comment */
+# This is a comment
+<!-- This is a comment -->
+C
+
+[Python]
+Which collection is ordered and changeable in Python?
+tuple
+set
+list
+dictionary
+C
+
+[JavaScript]
+How do you declare a JavaScript variable?
+variable carName;
+v carName;
+var carName;
+let carName;
+C
+
+[JavaScript]
+Which operator is used to assign a value to a variable?
+*
+=
+x
+==
+B
+
+[PHP]
+What does PHP stand for?
+Personal Home Page
+PHP: Hypertext Preprocessor
+Private Home Page
+Personal Hypertext Processor
+B
+
+[PHP]
+Which superglobal variable holds information about headers, paths, and script locations?
+$_GET
+$_SERVER
+$_SESSION
+$_GLOBALS
+B
+
+[C]
+What is the correct way to declare a constant in C?
+constant int x = 5;
+final int x = 5;
+#define x 5
+const x = 5;
+C
+
+[C]
+Which function prints output in C?
+print()
+console.log()
+printf()
+System.out.println()
+C
+
+[C]
+What does the '&' operator do with variables?
+Logical AND
+Bitwise AND
+Address of
+Value at address
+C
+
+[C]
+Which loop is guaranteed to execute at least once?
+for
+while
+do-while
+switch
+C
+
+[C]
+What is the size of a char in C?
+1 byte
+2 bytes
+4 bytes
+Depends on compiler
+A
+
+[C++]
+Which keyword is used for inheritance?
+implements
+inherits
+extends
+:
+D
+
+[C++]
+What is cout?
+A class
+An object
+A function
+A macro
+B
+
+[C++]
+What is the default access specifier in a class?
+public
+private
+protected
+package
+B
+
+[C++]
+Which STL container provides fast random access?
+vector
+list
+map
+set
+A
+
+[C++]
+What does OOP stand for?
+Object-Oriented Programming
+Operational Object Protocol
+Object Optimization Process
+Oriented Object Programming
+A
+
+[Python]
+How do you start a Python block?
+With curly braces {
+With indentation
+With begin keyword
+With colon :
+B
+
+[Python]
+Which is NOT a Python data structure?
+list
+tuple
+array
+vector
+D
+
+[Python]
+What is the output of: print(3 * 'hi')
+hihihi
+3hi
+Error
+None
+A
+
+[Python]
+Which module supports regular expressions?
+re
+regex
+pyre
+pattern
+A
+
+[Python]
+What does __init__ represent?
+Constructor
+Destructor
+Iterator
+Decorator
+A
+
+[HTML]
+Which tag creates a line break?
+<lb>
+<br>
+<break>
+<newline>
+B
+
+[CSS]
+Which property changes text color?
+text-color
+font-color
+color
+text-style
+C
+
+[JavaScript]
+How do you declare a JavaScript function?
+function myFunc()
+def myFunc()
+func myFunc()
+method myFunc()
+A
+
+[PHP]
+What opens and closes PHP code blocks?
+<?php ?>
+<php> </php>
+<? ?>
+Both A and C
+D
+
+[Node.js]
+Which module handles file operations?
+fs
+file
+filesystem
+io
+A
+
+[SQL]
+Which SQL clause filters results?
+FILTER BY
+WHERE
+HAVING
+Both B and C
+D
+
+[SQL]
+What is the primary key used for?
+Speed up queries
+Uniquely identify rows
+Enforce relationships
+All of the above
+D
+
+[MongoDB]
+Which command shows all databases?
+SHOW DATABASES
+show dbs
+LIST DATABASES
+db.list()
+B
+
+[SQL]
+Which join returns all rows from both tables?
+INNER JOIN
+LEFT JOIN
+FULL JOIN
+RIGHT JOIN
+C
+
+[SQL]
+What does ACID stand for in databases?
+Atomicity, Consistency, Isolation, Durability
+Availability, Consistency, Integrity, Durability
+Atomicity, Concurrency, Isolation, Durability
+Automation, Consistency, Isolation, Durability
+A
+
+[Git]
+Which command stages all changes?
+git stage .
+git add .
+git commit -a
+git update
+B
+
+[Linux]
+Which command lists directory contents?
+dir
+list
+ls
+show
+C
+
+[Docker]
+What is a Docker image?
+Running instance
+Template for containers
+Virtual machine
+Cloud service
+B
+
+[React]
+What is JSX?
+JavaScript XML
+JavaScript Extension
+Java Syntax Extension
+JSON XML
+A
+
+[TypeScript]
+What does TypeScript add to JavaScript?
+Static typing
+Classes
+Interfaces
+All of the above
+D
+
