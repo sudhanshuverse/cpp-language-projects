@@ -37,8 +37,11 @@ Each folder in this repository contains:
 ## 🧾 How to Use
 
 git clone https://github.com/sudhanshu-101/cpp-language-projects.git
+
 cd cpp-language-projects/Calculator
+
 g++ calculator.cpp -o calculator
+
 ./calculator
 
 
