@@ -61,5 +61,5 @@ Open-source under **MIT License**.
 ## 🙋‍♂️ Author
 
 **Sudhanshu Kumar**  
-📧 Reach out: [Enail](sudhanshu95084145@gmail.com)  
+📧 Reach out: [Email](sudhanshu95084145@gmail.com) (sudhanshu95084145@gmail.com)  
 🎓 BCA Student | C++, DSA, Python, Web Dev
