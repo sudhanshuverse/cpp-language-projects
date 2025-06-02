@@ -9,7 +9,7 @@ Welcome to the **C++ Language Projects** repository! This repository contains a 
 Each folder in this repository contains:
 - ✅ Source Code Files (`.cpp`)
 - 📝 Project-Specific `README.md`
-- 📸 Sample Screenshots / Output (if provided)
+- 📸 Sample Screenshots / Output 
 
 | Project Name | Description |
 |--------------|-------------|
@@ -29,7 +29,7 @@ Each folder in this repository contains:
 ## 🛠️ Tech Stack
 
 - **Language**: C++
-- **Concepts**: File Handling, OOP, Loops, Arrays, Functions, Structures, Classes
+- **Concepts**: File Handling, OOP, Loops, Arrays, Functions, Structures, Classes , ANSI Escape Codes(Text colors)
 - **Environment**: Console-based
 
 ---
