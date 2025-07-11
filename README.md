@@ -36,7 +36,7 @@ Each folder in this repository contains:
 
 ## 🧾 How to Use
 
-git clone https://github.com/sudhanshu-101/cpp-language-projects.git
+git clone https://github.com/sudhanshuverse/cpp-language-projects.git
 
 cd cpp-language-projects/Calculator
 
@@ -65,4 +65,3 @@ Open-source under **MIT License**.
 
 **Sudhanshu Kumar**  
 📧 Reach out: [Email](sudhanshu95084145@gmail.com) (sudhanshu95084145@gmail.com)  
-🎓 BCA Student | C++, DSA, Python, Web Dev
